@@ -8,10 +8,10 @@ Ideal for **manual QA testers** who want to generate clean, readable bug reports
 
 ## ✨ What Does It Do?
 
-- ✅ Reads bug report data from an Excel file (`bug_reports.xlsx`)
-- 📄 Converts each bug into a nicely formatted Word document
-- 🖼️ Adds screenshots if a file path is included
-- 💾 Saves everything in `Generated_Bug_Reports.docx`
+-  Reads bug report data from an Excel file (`bug_reports.xlsx`)
+-  Converts each bug into a nicely formatted Word document
+-  Adds screenshots if a file path is included
+-  Saves everything in `Generated_Bug_Reports.docx`
 
 ---
 
@@ -72,9 +72,9 @@ python generate_bug_reports.py
 - **Test Case Documentation:** Allows you to document the entire testing process with detailed steps and expected outcomes.
 
 ## 🎯 Future Improvements
-- **📧 Automated Email Integration:** Send the generated reports via email.
-- **✅ Validation:** Add data validation for bug report fields to ensure consistency.
-- **🌐 Web Interface:** Develop a simple web interface for users to upload Excel files and download the generated reports.
+- **Automated Email Integration:** Send the generated reports via email.
+- **Validation:** Add data validation for bug report fields to ensure consistency.
+- **Web Interface:** Develop a simple web interface for users to upload Excel files and download the generated reports.
 
 
 
